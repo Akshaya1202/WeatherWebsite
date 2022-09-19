@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Weather</title>
+        <link rel="stylesheet" href="weather.css">
+        <script src="weather.js"></script>
+    </head>
+    <body>
+        <div class="card">
+            <form>
+                <h2>Weather in Chennai</h2>
+                <input type = "text" placeholder = "Find your location" id = "location">
+                <button type = "submit" onclick="submit()">check!</button>
+                <br>
+                <input type="radio" id="html" name="unit" value="Celsius">
+                <label for="html">Celsius</label>
+                <input type="radio" id="css" name="unit" value="Fahrenheit ">
+                <label for="css">Fahrenheit </label><br>
+            </form>
+            <br>
+            <p>Temperature in Chennai : 31° Celsius</p>
+            <p>Humidity : 73%</p>
+            <p>Precipitation : 3%</p>
+        </div>
+
+    </body>
+
+</html>
