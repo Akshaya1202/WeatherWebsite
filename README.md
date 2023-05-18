@@ -1,1 +1,2 @@
-# WeatherApp
+# Weather Website
+The Weather Website project aims to develop a user-friendly and informative website that provides accurate and up-to-date weather information for various locations. The website will allow users to easily access current weather conditions, forecasts, and other related data. It will be designed to cater to a wide range of users, including individuals, travelers, and businesses, who rely on accurate weather information.
